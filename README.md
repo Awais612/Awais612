@@ -6,14 +6,14 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;React+%7C+Next.js+%7C+NestJS;JavaScript+%7C+TypeScript+%7C+Python;Building+scalable+web+applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;React+%7C+Next.js+%7C+NestJS;JavaScript+%7C+TypeScript;Open+to+Work+%26+Collaboration" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Profile Views + Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Awais612&label=Profile%20Views&color=6c63ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Learning-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Learning" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-4ECF8E?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work" />
 </p>
 
 ---
@@ -24,9 +24,9 @@
 const awais = {
   role: "Full Stack Software Engineer",
   location: "Pakistan 🇵🇰",
-  languages: ["JavaScript", "TypeScript", "Python", "PHP"],
-  frameworks: ["React", "Next.js", "NestJS", "Express", "Django", "WordPress"],
-  currentlyLearning: "React Native",
+  languages: ["JavaScript", "TypeScript", "PHP"],
+  frameworks: ["React", "Next.js", "NestJS", "Express", "WordPress"],
+  openTo: ["Full-time Roles", "Freelance", "Collaboration"],
   focus: ["Clean Code", "Performance", "SEO", "Responsive Design"],
   integrations: ["Stripe", "PayPal", "Square"],
   askMeAbout: ["React.js", "Next.js", "PostgreSQL", "Prisma", "NestJS", "MongoDB"],
@@ -35,7 +35,7 @@ const awais = {
 ```
 
 - 🔭 Results-driven Full Stack Engineer building scalable, high-performance web applications
-- 🌱 Currently mastering **React Native**
+- 🤝 **Open to work** — full-time roles, freelance, and collaboration
 - 👨‍💻 Explore my work → **[awais-yousaf.vercel.app](https://awais-yousaf.vercel.app/)**
 - 💬 Ask me about **React.js, Next.js, PostgreSQL, Prisma ORM, NestJS, Express.js, MongoDB**
 - 📫 Reach me at **muhammadawaisyousafbutt@gmail.com**
@@ -66,7 +66,7 @@ const awais = {
 
 #### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css" />
 </p>
 
 #### Frontend
@@ -76,7 +76,7 @@ const awais = {
 
 #### Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,laravel,wordpress" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,wordpress" />
 </p>
 
 #### Databases & ORM
@@ -94,12 +94,12 @@ const awais = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Awais612&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais612&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Awais612&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais612&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Awais612&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Awais612&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
