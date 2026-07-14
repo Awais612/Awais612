@@ -114,7 +114,6 @@ const awais = {
   <img src="https://raw.githubusercontent.com/Awais612/Awais612/output/snake.svg" alt="Snake animation" />
 </p>
 
-> **Note:** The snake graph above requires a GitHub Action. See setup instructions at the bottom.
 
 ---
 
