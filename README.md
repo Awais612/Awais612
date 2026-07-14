@@ -1,7 +1,9 @@
-<!-- Capsule Header Banner -->
+<!-- Custom SVG Banner (lives in your repo at assets/banner-retro.svg) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Awais%20Yousaf%20Butt&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Software%20Engineer%20%7C%20Pakistan&descAlignY=52&descSize=16" width="100%"/>
+  <img src="./assets/banner-retro.svg" alt="Welcome to Muhammad Awais Yousaf Butt — Software Developer" width="100%"/>
 </p>
+
+<h1 align="center">Hi there, I'm Muhammad Awais Yousaf Butt 👋</h1>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -10,8 +12,14 @@
   </a>
 </p>
 
-<!-- Profile Views + Badges -->
+<!-- Buttons + Profile Views -->
 <p align="center">
+  <a href="https://awais-yousaf.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/awaisdra2924" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Awais612&label=Profile%20Views&color=6c63ff&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-4ECF8E?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work" />
 </p>
@@ -26,10 +34,10 @@ const awais = {
   location: "Pakistan 🇵🇰",
   languages: ["JavaScript", "TypeScript", "PHP"],
   frameworks: ["React", "Next.js", "NestJS", "Express", "WordPress"],
-  openTo: ["Full-time Roles", "Freelance", "Collaboration"],
   focus: ["Clean Code", "Performance", "SEO", "Responsive Design"],
   integrations: ["Stripe", "PayPal", "Square"],
   askMeAbout: ["React.js", "Next.js", "PostgreSQL", "Prisma", "NestJS", "MongoDB"],
+  openTo: ["Full-time Roles", "Freelance", "Collaboration"],
   mindset: "Growth-driven collaborative team player 🚀"
 };
 ```
@@ -62,45 +70,40 @@ const awais = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills &amp; Technologies
 
-#### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css" />
-</p>
+<div align="center">
 
-#### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite" />
-</p>
+**Languages &amp; Frameworks**
 
-#### Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,wordpress" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,react,nextjs,redux,tailwind,bootstrap,vite,nodejs,nestjs,express,laravel,wordpress" />
 
-#### Databases & ORM
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,firebase,prisma" />
-</p>
+**Databases &amp; ORM**
 
-#### Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,gitlab,vercel,postman,figma,ps" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,firebase,prisma" />
 
-#### AI & Dev Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-</p>
+**Tools &amp; Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,gitlab,docker,linux,vercel,postman,figma,ps" />
+
+**AI &amp; Dev Tools**
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Awais612&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais612&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Awais612&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -114,7 +117,6 @@ const awais = {
   <img src="https://raw.githubusercontent.com/Awais612/Awais612/output/snake.svg" alt="Snake animation" />
 </p>
 
-
 ---
 
 ## ✍️ Random Dev Quote
@@ -125,5 +127,32 @@ const awais = {
 
 ---
 
-<!-- Capsule Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+## 💝 Support My Work
+
+<p align="center">
+  If you enjoy my projects or find them helpful, consider fueling my creativity with a coffee! ☕<br/>
+  Every sip powers the next big idea. 🚀
+</p>
+
+<!-- 
+  To enable a "Buy Me a Coffee" button, create an account at buymeacoffee.com,
+  then uncomment the block below and replace YOUR_USERNAME with your handle:
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
+-->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Awais612&label=Visitors&color=ec4899&style=flat-square" alt="Visitors" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/Awais612">Muhammad Awais Yousaf Butt</a> with ❤️
+</p>
