@@ -1,6 +1,6 @@
 <!-- Custom SVG Banner (lives in your repo at assets/banner-retro.svg) -->
 <p align="center">
-  <img src="./assets/banner-retro.svg" alt="Welcome to Muhammad Awais Yousaf Butt — Software Developer" width="100%"/>
+  <img src="./MAYB-Banner.svg" alt="Welcome to Muhammad Awais Yousaf Butt — Software Developer" width="100%"/>
 </p>
 
 <h1 align="center">Hi there, I'm Muhammad Awais Yousaf Butt 👋</h1>
